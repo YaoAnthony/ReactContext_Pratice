@@ -6,7 +6,7 @@ One kind of answer regarding the new react tutorial: https://react.dev/learn/pas
 
 it just a component, thus you need create a react program by urself firstly. then connecting with this component as show below:
 
-
+{
 
 import css from "./mainpage.module.scss"
 import ReactRebuild from "../../component/ReactRebuild"
@@ -23,3 +23,6 @@ const MainPage = ()=>{
 
 
 export default MainPage
+
+
+}
